@@ -1,0 +1,247 @@
+ #accordion .container .row .accordions {
+    margin-bottom: 70px; }
+    #accordion .container .row .accordions hr {
+      margin-top: 60px; }
+     #accordion .container .row .accordions .default h4 {
+      font-size: 20px;
+      font-weight: 500;
+      color: #1f1f1f; }
+     #accordion .container .row .accordions .default h6 {
+      margin: 10px;
+      font-size: 13px;
+      color: #1f1f1f;
+      position: relative;
+      cursor: pointer; }
+      #accordion .container .row .accordions .default h6 span {
+        position: absolute;
+        right: 4px;
+        font-size: 14px; }
+     #accordion .container .row .accordions .default .content {
+      display: none; }
+      #accordion .container .row .accordions .default .content p {
+        font-size: 13.6px;
+        font-weight: 400;
+        color: #777;
+        margin-left: 10px; }
+   #accordion .container .row .accordions .default .border {
+      margin-top: 16px;
+      border-radius: 4px; }
+     #accordion .container .row .accordions .shadow-acc {
+      margin-top: 40px; }
+    #accordion .container .row .accordions .shadow-acc h4 {
+        font-size: 20px;
+        font-weight: 500;
+        color: #1f1f1f; }
+     #accordion .container .row .accordions .shadow-acc h6 {
+        margin: 10px;
+        font-size: 13px;
+        color: #1f1f1f;
+        position: relative;
+        cursor: pointer; }
+      #accordion .container .row .accordions .shadow-acc h6 span {
+          position: absolute;
+          right: 4px;
+          font-size: 14px; }
+     #accordion .container .row .accordions .shadow-acc .content {
+        display: none; }
+       #accordion .container .row .accordions .shadow-acc .content p {
+          font-size: 13.6px;
+          font-weight: 400;
+          color: #777;
+          margin-left: 10px; }
+      #accordion .container .row .accordions .shadow-acc .border {
+        margin-top: 16px;
+        border-radius: 4px; }
+     #accordion .container .row .accordions .with-icon {
+      margin-top: 40px; }
+     #accordion .container .row .accordions .with-icon h4 {
+        font-size: 20px;
+        font-weight: 500;
+        color: #1f1f1f; }
+      #accordion .container .row .accordions .with-icon h6 {
+        margin: 10px;
+        font-size: 13px;
+        color: #1f1f1f;
+        position: relative;
+        cursor: pointer; }
+      #accordion .container .row .accordions .with-icon h6 span {
+          position: absolute;
+          right: 4px;
+          font-size: 14px; }
+     #accordion .container .row .accordions .with-icon .content {
+        display: none; }
+       #accordion .container .row .accordions .with-icon .content p {
+          font-size: 13.6px;
+          font-weight: 400;
+          color: #777;
+          margin-left: 10px; }
+      #accordion .container .row .accordions .with-icon .border {
+        background: white;
+        margin-top: 16px;
+        border-radius: 4px; }
+   #accordion .container .row .accordions .simple {
+      margin-top: 40px; }
+       #accordion .container .row .accordions .simple h4 {
+        font-size: 20px;
+        font-weight: 500;
+        color: #1f1f1f; }
+      #accordion .container .row .accordions .simple h6 {
+        margin: 10px;
+        font-size: 13px;
+        color: #1f1f1f;
+        position: relative;
+        cursor: pointer; }
+        #accordion .container .row .accordions .simple h6 span {
+          position: absolute;
+          right: 4px;
+          font-size: 14px; }
+      #accordion .container .row .accordions .simple .content {
+        display: none; }
+         #accordion .container .row .accordions .simple .content p {
+          font-size: 13.6px;
+          font-weight: 400;
+          color: #777;
+          margin-left: 10px; }
+      #accordion .container .row .accordions .simple .border {
+        margin-top: 16px;
+        border-radius: 4px; }
+   #accordion .container .row .accordions .flat {
+      margin-top: 40px; }
+     #accordion .container .row .accordions .flat h4 {
+        font-size: 20px;
+        font-weight: 500;
+        color: #1f1f1f; }
+      #accordion .container .row .accordions .flat h6 {
+        font-size: 13px;
+        margin-bottom: 20px;
+        color: #1f1f1f;
+        position: relative;
+        cursor: pointer; }
+       #accordion .container .row .accordions .flat h6 span {
+          position: absolute;
+          right: 4px;
+          font-size: 14px; }
+      #accordion .container .row .accordions .flat .content {
+        display: none; }
+       #accordion .container .row .accordions .flat .content p {
+          font-size: 13.6px;
+          font-weight: 400;
+          color: #777;
+          margin-left: 0; }
+      #accordion .container .row .accordions .flat .border {
+        margin-top: 16px;
+        border-radius: 4px; }
+     #accordion .container .row .accordions .dark {
+      margin-top: 40px; }
+     #accordion .container .row .accordions .dark h4 {
+        font-size: 20px;
+        font-weight: 500;
+        color: #1f1f1f; }
+     #accordion .container .row .accordions .dark h6 {
+        margin: 10px;
+        font-size: 13px;
+        color: #1f1f1f;
+        position: relative;
+        cursor: pointer;
+        color: #fff; }
+        #accordion .container .row .accordions .dark h6 span {
+          position: absolute;
+          right: 4px;
+          font-size: 14px; }
+      #accordion .container .row .accordions .dark .content {
+        display: none; }
+      #accordion .container .row .accordions .dark .content p {
+          font-size: 13.6px;
+          font-weight: 400;
+          color: #fff;
+          margin-left: 10px; }
+     #accordion .container .row .accordions .dark .border {
+        background: #333;
+        margin-top: 16px;
+        border-radius: 4px; }
+   #accordion .container .row .accordions .with-theme {
+      margin-top: 40px; }
+     #accordion .container .row .accordions .with-theme h4 {
+        font-size: 20px;
+        font-weight: 500;
+        color: #1f1f1f; }
+     #accordion .container .row .accordions .with-theme h6 {
+        margin: 10px;
+        font-size: 13px;
+        color: #1f1f1f;
+        position: relative;
+        cursor: pointer;
+        color: #fff; }
+       #accordion .container .row .accordions .with-theme h6 span {
+          position: absolute;
+          right: 4px;
+          font-size: 14px; }
+     #accordion .container .row .accordions .with-theme .content {
+        display: none; }
+       #accordion .container .row .accordions .with-theme .content p {
+          font-size: 13.6px;
+          font-weight: 400;
+          color: #fff;
+          margin-left: 10px; }
+      #accordion .container .row .accordions .with-theme .border {
+        background: #2250fc;
+        margin-top: 16px;
+        border-radius: 4px; }
+
+
+        /* start nav */
+        ul{
+            list-style: none;
+          }
+         
+        
+        
+          .nav-item .subMenu-6{
+           position: absolute;
+           right: 0;
+           left: 0;
+          background-color: #fff;
+          border: 1px solid #eee;
+          border-radius: 4px;
+               padding: 20px;
+               box-shadow: 0 33px 32px rgba(0,0,0,.1);
+        display:none;
+          }
+        
+          .nav-item:hover .subMenu-6{
+            display: block;
+          }
+          
+          .nav-item .subMenu-6 ul>li>a{
+            color: #444;
+            font-family: "Poppins",sans-serif;
+            font-size: 12px;
+            line-height: 14px;
+            font-weight: 500;
+            padding: 10px 0;
+           text-decoration: none;
+           display: list-item;
+          
+          }
+        
+          .nav-item .subMenu-6 ul{
+            padding: 0;
+          }
+          
+          
+           .fa {
+            margin-right: 8px;
+          }
+          .fas{
+            margin-right: 8px;
+          }
+          
+         .far{
+          margin-right: 8px;
+        }
+          
+        .nav-item .subMenu-6 ul>li>a:hover{
+          color: #2250fc;
+          cursor: pointer;
+        }
+        /* end nav */
